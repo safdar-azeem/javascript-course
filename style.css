@@ -1,0 +1,13 @@
+body {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    flex-direction: column;
+    padding: 0px 15vw;
+}
+
+h1 {
+    font-size: 65px;
+}
