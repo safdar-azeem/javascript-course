@@ -1,1 +1,3 @@
-// empty
+ create a function called removeTodos that will take todos and a index of an element to remove as arguments and return a new array of todos without the element at the index.
+
+ create a function called editTodo that will take todos and a element that will be edited and a new element as arguments and return a new array of todos with the element replaced with the new element
